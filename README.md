@@ -1,0 +1,1 @@
+Esse é um site criado para a aula de DW do professor Hewerton, foi minha primeira experiencia usando o jekyll, não descobri como pedir para gerar um site com tema diferente, pórem pesquisei bastante, usei auxilio do gemini para me mostrar o que fazer, além das declarações automaticas do github, jekyll e do ruby installer.
